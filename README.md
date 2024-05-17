@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated Full-Stack Developer and Tech Enth
 <!-- About Me -->
 ## About Me
 
-I'm Harshitha, based in Mangalore. With a background in software development, I'm particularly interested in web technologies and data science. I enjoy tackling challenging projects that push the boundaries of what's possible with current tech.
+I'm Harshitha, based in Mangalore. With a background in software development, I'm particularly interested in web technologies and data science. I enjoy tackling challenging projects that push the boundaries of what's possible with current tech.Being a tech enthusiast I look forward to find the solutions to the challenging problems 
 
 <!-- Technologies -->
 ## Technologies & Tools
@@ -34,6 +34,7 @@ I'm Harshitha, based in Mangalore. With a background in software development, I'
 
 <!-- Contact Me -->
 ## Let's Connect
+gmail:harshiipoojary@gmail.com
 
 📧 [Email](mailto:harshiipoojary@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/harshitha2007)  
