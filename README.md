@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitha2007)
 
-Welcome to my GitHub profile! I'm a dedicated Full-Stack Developer and Tech Enthusiast passionate about coding and building scalable projects.
+Welcome to my GitHub profile! I'm a dedicated  Tech Enthusiast passionate about coding and building scalable projects.
 
 <!-- About Me -->
 ## About Me
